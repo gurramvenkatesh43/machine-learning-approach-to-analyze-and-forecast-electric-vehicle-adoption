@@ -1,0 +1,2 @@
+# machine-learning-approach-to-analyze-and-forecast-electric-vehicle-adoption
+This project aims to analyze and forecast the adoption of Electric Vehicles (EVs) using Machine Learning techniques. With the growing need for sustainable and eco-friendly transportation, EV adoption has become an important area of study. Accurate forecasting of EV growth helps governments, industries, and researchers make better decisions
